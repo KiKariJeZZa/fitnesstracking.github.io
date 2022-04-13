@@ -1,2 +1,3 @@
 # fitnesstracking.github.io
-Website to track my macros, lifts, and weight
+
+This website will be used to help track my macros, lifts and weight
